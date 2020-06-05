@@ -15,7 +15,7 @@ namespace Polimorfismo_Aula11
             System.Console.WriteLine(infoPlayer.Calcular(100,40));
 
             //4° opção com 2 argumentos string
-            System.Console.WriteLine(infoPlayer.Calcular("Bruce", "Banner"));
+            System.Console.WriteLine(infoPlayer.Calcular("Peter", "Parker"));
         }
     }
 }
