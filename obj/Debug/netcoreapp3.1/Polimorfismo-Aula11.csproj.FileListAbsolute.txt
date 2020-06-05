@@ -1,0 +1,13 @@
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\bin\Debug\netcoreapp3.1\Polimorfismo-Aula11.exe
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\bin\Debug\netcoreapp3.1\Polimorfismo-Aula11.deps.json
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\bin\Debug\netcoreapp3.1\Polimorfismo-Aula11.runtimeconfig.json
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\bin\Debug\netcoreapp3.1\Polimorfismo-Aula11.runtimeconfig.dev.json
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\bin\Debug\netcoreapp3.1\Polimorfismo-Aula11.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\bin\Debug\netcoreapp3.1\Polimorfismo-Aula11.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\obj\Debug\netcoreapp3.1\Polimorfismo-Aula11.csprojAssemblyReference.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\obj\Debug\netcoreapp3.1\Polimorfismo-Aula11.AssemblyInfoInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\obj\Debug\netcoreapp3.1\Polimorfismo-Aula11.AssemblyInfo.cs
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\obj\Debug\netcoreapp3.1\Polimorfismo-Aula11.csproj.CoreCompileInputs.cache
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\obj\Debug\netcoreapp3.1\Polimorfismo-Aula11.dll
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\obj\Debug\netcoreapp3.1\Polimorfismo-Aula11.pdb
+C:\Users\parra\OneDrive\Documentos\Senai\Polimorfismo-Aula11\obj\Debug\netcoreapp3.1\Polimorfismo-Aula11.genruntimeconfig.cache
